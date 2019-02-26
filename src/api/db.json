@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 37403,
+      "firstName": "Vivian",
+      "lastName": "Gaylord",
+      "email": "Kristofer93@hotmail.com"
+    },
+    {
+      "id": 50862,
+      "firstName": "Danny",
+      "lastName": "Balistreri",
+      "email": "Hayley54@hotmail.com"
+    },
+    {
+      "id": 25239,
+      "firstName": "Jedediah",
+      "lastName": "Torp",
+      "email": "Clare_Bartoletti@hotmail.com"
+    },
+    {
+      "id": 63244,
+      "firstName": "Carmela",
+      "lastName": "Haley",
+      "email": "Blanca14@yahoo.com"
+    },
+    {
+      "id": 19721,
+      "firstName": "Anastacio",
+      "lastName": "Keeling",
+      "email": "Miracle.Hudson@yahoo.com"
+    },
+    {
+      "id": 53744,
+      "firstName": "Lenny",
+      "lastName": "Schumm",
+      "email": "Gene.Mueller@hotmail.com"
+    },
+    {
+      "id": 8387,
+      "firstName": "Bud",
+      "lastName": "Maggio",
+      "email": "Wilton12@hotmail.com"
+    },
+    {
+      "id": 21062,
+      "firstName": "Zaria",
+      "lastName": "Reichel",
+      "email": "Dustin.Howell12@hotmail.com"
+    }
+  ]
+}
